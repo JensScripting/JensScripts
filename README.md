@@ -1,1 +1,1 @@
-# jenshub
+Free Script
